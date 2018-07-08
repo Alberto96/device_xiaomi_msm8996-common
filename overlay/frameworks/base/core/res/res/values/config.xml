@@ -359,7 +359,4 @@
     <!-- Button backlight -->
     <bool name="config_button_brightness_support">true</bool>
 
-    <!-- Enable full screen DT2S in lockscreen -->
-    <bool name="fullScreenDT2S">true</bool>
-
 </resources>
