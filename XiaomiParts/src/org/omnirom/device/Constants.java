@@ -32,7 +32,7 @@ public class Constants {
     public static final String DT2W_KEY = "dt2w";
 
     // Nodes
-    public static final String BUTTON_SWAP_NODE = "/proc/touchpanel/reversed_keys_enable";
+    public static final String BUTTON_SWAP_NODE = "/proc/buttons/reversed_keys_enable";
     public static final String FP_HOME_KEY_NODE = "/sys/devices/soc/soc:fpc_fpc1020/enable_key_events";
     public static final String FP_WAKEUP_NODE = "/sys/devices/soc/soc:fpc_fpc1020/enable_wakeup";
     public static final String VIRTUAL_KEYS_NODE = "/proc/touchpanel/capacitive_keys_enable";
